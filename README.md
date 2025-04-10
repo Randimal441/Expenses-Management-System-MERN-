@@ -1,8 +1,10 @@
 # Expenses-Management-System-MERN-
-✨ Features
-  📝 Add new expenses with description, amount, and date  
-  ✏️ Edit existing expense entries  
-  ❌ Delete expenses with a click  
-  📊 Responsive and user-friendly React UI  
-  🚀 Fast and efficient backend with RESTful APIs  
-  🌐 MongoDB for dynamic data storage
+  ✨ Features
+1.📝 **Add new items** with name, quantity, and cost per item
+2.📊 **Automatically calculate** the total cost for each item
+3.✏️ **Edit existing items** with real-time total cost updates
+4.❌ **Delete items** from the bill
+5.🚀 **Live calculation** of the total bill amount
+6.🌐 **Integration with external orders** from the pet shop module
+
+
